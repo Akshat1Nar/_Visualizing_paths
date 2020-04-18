@@ -25,6 +25,8 @@ We simply go to path in each direction till we stumble upon the destination and 
 3 Select destination icon  ![](Png/dst.png) 
  then Select destination on grid
 
+4 Drag and select the *to-be-blocked* tiles
+
 5 Then Select play icon ![](Png/play.png)
 
 
