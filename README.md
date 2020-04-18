@@ -41,4 +41,5 @@ We simply go to path in each direction till we stumble upon the destination and 
 3 run using command
 
 >**pip3 install pygame**
+
 >**python3 main.py**
