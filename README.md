@@ -14,7 +14,7 @@ keeps track of value associated to each path.
 
 ![](Png/1.gif)
 
-We simply go to path in each direction till we stuble upon the destination and choose the shortest of it.
+We simply go to path in each direction till we stumble upon the destination and choose the shortest of it.
 
 
 ## Using This Project::
