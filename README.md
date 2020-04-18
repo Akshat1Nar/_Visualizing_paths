@@ -36,4 +36,5 @@ We simply go to path in each direction till we stuble upon the destination and c
 2 Open cmd in Windows or Terminal in Linux then **cd** your way into the directory where you have
   downloaded this project.
   
-3 run using command **python3 main.py**
+3 run using command
+>**python3 main.py**
